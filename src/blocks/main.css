@@ -1,0 +1,54 @@
+.main{
+	background-color: #000;
+	display: flex;
+	justify-content: space-between;
+	padding: 0 3.5%;
+	padding: 40px 3.5%;
+}
+
+.main__description{
+	color: #fff;
+	width: 50%;
+}
+
+.main__description-title{
+	font-size: 60px;
+	font-weight: 500;
+}
+
+.main__description-subtitle{
+	font-size: 30px;
+	font-weight: 300;
+	margin-bottom: 10px;
+}
+
+.main__description-text{
+	padding-right: 100px;
+	margin: 20px 0;
+	line-height: 1.5;
+}
+
+.main__description-btn{
+	border: none;
+	padding: 15px 20px;
+	border-radius: 15px;
+	font-size: 17px;
+	cursor: pointer;
+}
+
+.main__description-btn:hover{
+	opacity: 0.8;
+}
+
+.main__photo{
+	width: 40%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.main__photo img{
+	width: 80%;
+	border-radius: 15px;
+	margin: 0 auto;
+}
