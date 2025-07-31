@@ -7,8 +7,11 @@
 .experience__title{
 	font-size: 50px;
 	text-align: center;
-	margin-bottom: 60px;
 	font-weight: 500;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	background-color: #000;
+	color: #fff;
 }
 
 .experience__wrapper{
@@ -18,19 +21,24 @@
 
 .experience__box-date{
 	width: 35%;
+	padding-top: 5px;
+	text-align: center;
 }
 
 .experience__box-info{
 	width: 53%;
 }
 
-.experience__box-job{
+.experience__box-job-title{
 	margin-bottom: 15px;
-	font-size: 18px;
+	font-size: 20px;
+	font-weight: 500;
 }
 
-.experience__box-job span{
-	color: #ffffffa4;
+.experience__box-job-title span{
+	color: #ffffff86;
+	font-style: italic;
+	font-size: 17px;
 }
 
 .experience__box-job-description{
@@ -46,11 +54,13 @@
 	padding: 5px 10px;
 	margin-right: 10px;
 	font-size: 12px;
-	background: rgba(255, 255, 255, 0.07);
+	background: rgba(226, 226, 226, 0.507);
 	border-radius: 16px;
 	box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
 	backdrop-filter: blur(5.8px);
 	-webkit-backdrop-filter: blur(5.8px);
-	border: 1px solid rgba(255, 255, 255, 0.3);
+	border: 1px solid rgb(0, 0, 0);
 	border-radius: 5px;
+	color: #000;
+	font-weight: 600;
 }

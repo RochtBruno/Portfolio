@@ -4,13 +4,12 @@ function Exp() {
 	return(
 		<>
 			<div className="experience">
-				<h2 className="experience__title">Experience</h2>
 				<div className="experience__wrapper">
 					<div className="experience__box-date">
 						<p>2023 - Present</p>
 					</div>
 					<div className="experience__box-info">
-						<p className="experience__box-job">Full stack developer - <span>42 rio</span></p>
+						<p className="experience__box-job-title">Full stack developer - <span>42 rio</span></p>
 						<p className="experience__box-job-description">Experiência como desenvolvedor full stack no programa 42 Labs 
 							fundamental para o meu desenvolvimento, proporcionando contato direto com problemas reais de empresas parceiras. 
 							Através desse programa, pude aprimorar minhas hard skills em desenvolvimento de software (incluindo React.js, Node.js, 

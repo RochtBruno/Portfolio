@@ -12,3 +12,7 @@
 	font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
+html,body{
+	overflow-x: hidden;
+}
+
