@@ -1,0 +1,56 @@
+.experience{
+	padding: 60px 2%;
+	color: #fff;
+	background-color: #000;
+}
+
+.experience__title{
+	font-size: 50px;
+	text-align: center;
+	margin-bottom: 60px;
+	font-weight: 500;
+}
+
+.experience__wrapper{
+	display: flex;
+	justify-content: center;
+}
+
+.experience__box-date{
+	width: 35%;
+}
+
+.experience__box-info{
+	width: 53%;
+}
+
+.experience__box-job{
+	margin-bottom: 15px;
+	font-size: 18px;
+}
+
+.experience__box-job span{
+	color: #ffffffa4;
+}
+
+.experience__box-job-description{
+	margin: 15px 0;
+	line-height: 1.3;
+}
+
+.experience__box-job-skills{
+	display: flex;
+}
+
+.experience__box-job-skill{
+	padding: 5px 10px;
+	margin-right: 10px;
+	font-size: 12px;
+	background: rgba(255, 255, 255, 0.07);
+	border-radius: 16px;
+	box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+	backdrop-filter: blur(5.8px);
+	-webkit-backdrop-filter: blur(5.8px);
+	border: 1px solid rgba(255, 255, 255, 0.3);
+	border-radius: 5px;
+}
