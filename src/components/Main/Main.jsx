@@ -1,3 +1,4 @@
+import React from 'react'
 import my_photo from "../../assets/foto__perfil.jpeg"
 
 function Main(){

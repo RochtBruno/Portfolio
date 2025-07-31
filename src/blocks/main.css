@@ -13,26 +13,27 @@
 
 .main__description-title{
 	font-size: 60px;
-	font-weight: 500;
+	margin-bottom: 15px;
 }
 
 .main__description-subtitle{
 	font-size: 30px;
-	font-weight: 300;
 	margin-bottom: 10px;
+	font-weight: 300;
 }
 
 .main__description-text{
-	padding-right: 100px;
+	padding-right: 70px;
 	margin: 20px 0;
 	line-height: 1.5;
+	font-size: 18px;
 }
 
 .main__description-btn{
 	border: none;
 	padding: 15px 20px;
 	border-radius: 15px;
-	font-size: 17px;
+	font-size: 19px;
 	cursor: pointer;
 }
 
