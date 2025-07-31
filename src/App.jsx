@@ -4,6 +4,7 @@ import Main from './components/Main/Main.jsx'
 import Skills from './components/Skills/Skills.jsx'
 import Exp from './components/Exp/Exp.jsx'
 import Project from './components/Project/Project.jsx'
+import Contact from './components/Contact/Contact.jsx'
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
      <Exp />
       <h2 className="projects__title">Projects</h2>
       <Project />
+      <Contact />
     </>
   )
 }
