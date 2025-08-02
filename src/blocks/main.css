@@ -55,3 +55,40 @@
 	border-radius: 15px;
 	margin: 0 auto;
 }
+
+@media screen and (max-width: 1080px){
+	.main__photo{
+		justify-content: center;
+		align-items: center;
+	}
+
+	.main__photo img{
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 1080px){
+	.main{
+		display: flex;
+		justify-content: space-between;
+		flex-direction: column;
+	}
+	.main__description{
+		width: 100%;
+	}
+	.main__photo{
+		display: none;
+	}
+}
+
+@media screen and (max-width: 540px){
+	.main{
+		padding: 40px 5%;
+	}
+	.main__description-text{
+		padding-right: 20px;
+		margin: 20px 0;
+		line-height: 1.5;
+		font-size: 18px;
+	}
+}

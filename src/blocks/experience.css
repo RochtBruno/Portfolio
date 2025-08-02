@@ -64,3 +64,21 @@
 	color: #000;
 	font-weight: 600;
 }
+
+@media screen and (max-width: 540px){
+	.experience__wrapper{
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
+	.experience__box-date{
+		width: 50%;
+		padding-top: 5px;
+		padding-left: 30px;
+		text-align: left;
+	}
+	.experience__box-info{
+		width: 100%;
+		padding: 15px 8%;
+	}
+}
