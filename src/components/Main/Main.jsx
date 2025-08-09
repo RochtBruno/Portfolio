@@ -14,7 +14,9 @@ function Main(){
 					e Oracle Next Education (ONE), o que fortaleceu meu domínio do front-end e back-end.
 					Sou movido pela curiosidade e pela vontade constante de aprender. Gosto de resolver problemas, 
 					pensar em usabilidade e trabalhar em equipe para construir produtos que realmente funcionem.</p>
-				<button className="main__description-btn">Download CV</button>	
+				<a className="main__description-btn" href="/Bruno_Rocha_curriculo.pdf" download="curriculo.pdf">
+					Download CV
+				</a>
 			</div>
 			<div className="main__photo">
 				<img src={my_photo} alt="profile photo" />
