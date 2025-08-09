@@ -1,0 +1,14 @@
+[
+  {
+    "date": "11/24 - 04/25",
+    "title": "Full stack developer - 42 rio",
+    "description": "Experiência como desenvolvedor full stack no programa 42 Labs fundamental para o meu desenvolvimento, proporcionando contato direto com problemas reais de empresas parceiras. Através desse programa, pude aprimorar minhas hard skills em desenvolvimento de software e fortalecer minhas soft skills, atuando na resolução de problemas complexos. A vivência com desafios que impactam diretamente negócios e empregos foi um passo crucial na minha carreira, preparando-me para o mercado de trabalho em Engenharia de Software e desenvolvimento web full stack.",
+    "skills": ["JavaScript", "React","Python", "Docker","AWS","Node.js","MongoDB"]
+  },
+  {
+    "date": "2022 - Presente",
+    "title": "Full stack developer - Freelancer",
+    "description": "Minha experiência inclui o desenvolvimento de projetos web reais para clientes globais. Além da implementação, fui responsável pela criação do design dessas soluções, que receberam feedback positivo dos clientes. Essa vivência me proporcionou uma base sólida em desenvolvimento front-end e a capacidade de entregar designs atraentes e funcionais, aplicáveis em qualquer projeto full stack.",
+    "skills": ["HTML", "CSS" , "Javascript", "React", "Node.js", "MongoDB", "Express"]
+  }
+]

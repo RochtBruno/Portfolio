@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Projeto VEM (Viver Em Movimento)",
+    "description": "O projeto proposto é uma aplicação que fornecerá informações sobre grupos esportivos gratuitos disponíveis em uma cidade, com o objetivo de aumentar o acesso e o engajamento da população em práticas esportivas.",
+    "projectImg": "project-1.png",
+    "links": [
+      { "label": "Ver projeto", "url": "https://projeto-vem.netlify.app/" },
+      { "label": "Github", "url": "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t5-esportes_gratuitos" }
+    ]
+  },
+    {
+    "title": "Green-Rocket",
+    "description": "Este projeto é dedicado ao desenvolvimento de soluções para uma empresa focada no cultivo sustentável e eficiente de cannabis medicinal, com atuação B2B. Acreditamos que é possível unir tecnologia, responsabilidade ambiental e inovação para promover o acesso a produtos de alta qualidade.",
+    "projectImg": "project-2.png",
+    "links": [
+      { "label": "Ver projeto", "url": "https://green-rocket.vercel.app/" },
+      { "label": "Github", "url": "https://github.com/RochtBruno/green-rocket" }
+    ]
+  }
+]

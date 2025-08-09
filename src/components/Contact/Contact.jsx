@@ -14,8 +14,8 @@ function Contact(){
 				<p className="contact__infos-telephone">+55 24 99218-1476</p>
 				<IconContext.Provider value={{ className: 'contact__icons' }}>
 					<div className="contact__icons-wrapper">
-						<a href=""><FaLinkedin /></a>
-						<a href=""><FaGithub /></a>
+						<a target="a_blank" href="https://www.linkedin.com/in/bru-rocha/"><FaLinkedin /></a>
+						<a target="a_blank" href="https://github.com/RochtBruno"><FaGithub /></a>
 					</div>
 				</IconContext.Provider>;
 			</div>

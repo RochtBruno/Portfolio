@@ -14,8 +14,8 @@ function Header() {
 			</div>
 			<IconContext.Provider value={{ className: 'react-icons' }}>
 				<div className="header__icons">
-					<a href=""><FaLinkedin /></a>
-					<a href=""><FaGithub /></a>
+					<a target="a_blank" href="https://www.linkedin.com/in/bru-rocha/"><FaLinkedin /></a>
+					<a target="a_blank" href="https://github.com/RochtBruno"><FaGithub /></a>
 				</div>
 			</IconContext.Provider>;
 		</div>
