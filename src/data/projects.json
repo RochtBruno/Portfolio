@@ -8,13 +8,22 @@
       { "label": "Github", "url": "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t5-esportes_gratuitos" }
     ]
   },
-    {
+  {
     "title": "Green-Rocket",
     "description": "Este projeto é dedicado ao desenvolvimento de soluções para uma empresa focada no cultivo sustentável e eficiente de cannabis medicinal, com atuação B2B. Acreditamos que é possível unir tecnologia, responsabilidade ambiental e inovação para promover o acesso a produtos de alta qualidade.",
     "projectImg": "project-2.png",
     "links": [
       { "label": "Ver projeto", "url": "https://green-rocket.vercel.app/" },
       { "label": "Github", "url": "https://github.com/RochtBruno/green-rocket" }
+    ]
+  },
+  {
+    "title": "Around Us",
+    "description": "O Around Us é uma aplicação web full stack que permite aos usuários criar uma conta, fazer login, editar seu perfil, adicionar cartões com imagens, curtir e deletar cartões. O projeto foi desenvolvido com foco em autenticação, autorização, integração front-end/back-end e boas práticas de desenvolvimento web.",
+    "projectImg": "project-3.png",
+    "links": [
+      { "label": "Ver projeto", "url": "https://web-project-api-full-peach.vercel.app/" },
+      { "label": "Github", "url": "https://github.com/RochtBruno/web_project_api_full" }
     ]
   }
 ]
