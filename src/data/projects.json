@@ -25,5 +25,14 @@
       { "label": "Ver projeto", "url": "https://web-project-api-full-peach.vercel.app/" },
       { "label": "Github", "url": "https://github.com/RochtBruno/web_project_api_full" }
     ]
+  },
+  {
+    "title": "News Explorer",
+    "description": "News Explorer é uma aplicação web que permite aos usuários pesquisar e salvar artigos de notícias de várias fontes. A aplicação utiliza a NewsAPI para buscar artigos com base em palavras-chave fornecidas pelos usuários. Os usuários podem criar uma conta, fazer login, pesquisar artigos, visualizar detalhes dos artigos e salvar seus artigos favoritos para acesso futuro.",
+    "projectImg": "project-4.png",
+    "links": [
+      { "label": "Ver projeto", "url": "https://news-explorer-eight.vercel.app/" },
+      { "label": "Github", "url": "https://github.com/RochtBruno/news-Explorer" }
+    ]
   }
 ]
