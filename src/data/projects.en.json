@@ -1,0 +1,38 @@
+[
+  {
+    "title": "VEM Project (Live In Movement)",
+    "description": "Application that provides information about free sports groups available in a city to increase public access and engagement in physical activity.",
+    "projectImg": "project-1.png",
+    "links": [
+      { "label": "View project", "url": "https://projeto-vem.netlify.app/" },
+      { "label": "Github", "url": "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t5-esportes_gratuitos" }
+    ]
+  },
+  {
+    "title": "Green-Rocket",
+    "description": "Project focused on developing solutions for a company dedicated to sustainable, efficient cultivation of medical cannabis (B2B), combining technology, environmental responsibility and innovation.",
+    "projectImg": "project-2.png",
+    "links": [
+      { "label": "View project", "url": "https://green-rocket.vercel.app/" },
+      { "label": "Github", "url": "https://github.com/RochtBruno/green-rocket" }
+    ]
+  },
+  {
+    "title": "Around Us",
+    "description": "Full stack web app where users can create an account, log in, edit profile, add image cards, like and delete cards. Built with focus on auth, front/back integration and good practices.",
+    "projectImg": "project-3.png",
+    "links": [
+      { "label": "View project", "url": "https://web-project-api-full-peach.vercel.app/" },
+      { "label": "Github", "url": "https://github.com/RochtBruno/web_project_api_full" }
+    ]
+  },
+  {
+    "title": "News Explorer",
+    "description": "Web app that lets users search and save news articles from multiple sources using NewsAPI. Users can create accounts, search, view details and save favorites.",
+    "projectImg": "project-4.png",
+    "links": [
+      { "label": "View project", "url": "https://news-explorer-eight.vercel.app/" },
+      { "label": "Github", "url": "https://github.com/RochtBruno/news-Explorer" }
+    ]
+  }
+]

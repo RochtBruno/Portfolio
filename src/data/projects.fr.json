@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Projet VEM (Vivre en Mouvement)",
+    "description": "Application qui fournit des informations sur les groupes sportifs gratuits disponibles dans une ville afin d'augmenter l'accès et l'engagement du public dans l'activité physique.",
+    "projectImg": "project-1.png",
+    "links": [
+      { "label": "Voir le projet", "url": "https://projeto-vem.netlify.app/" },
+      { "label": "Github", "url": "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t5-esportes_gratuitos" }
+    ]
+  },
+  {
+    "title": "Green-Rocket",
+    "description": "Projet axé sur le développement de solutions pour une entreprise dédiée à la culture durable et efficace du cannabis médical (B2B), en combinant technologie, responsabilité environnementale et innovation.",
+    "projectImg": "project-2.png",
+    "links": [
+      { "label": "Voir le projet", "url": "https://green-rocket.vercel.app/" },
+      { "label": "Github", "url": "https://github.com/RochtBruno/green-rocket" }
+    ]
+  },
+  {
+    "title": "Around Us",
+    "description": "Application web full stack permettant aux utilisateurs de créer un compte, se connecter, éditer leur profil, ajouter des cartes avec images, aimer et supprimer des cartes. Axée sur l'authentification, l'intégration front/back et les bonnes pratiques.",
+    "projectImg": "project-3.png",
+    "links": [
+      { "label": "Voir le projet", "url": "https://web-project-api-full-peach.vercel.app/" },
+      { "label": "Github", "url": "https://github.com/RochtBruno/web_project_api_full" }
+    ]
+  },
+  {
+    "title": "News Explorer",
+    "description": "Application web qui permet aux utilisateurs de rechercher et sauvegarder des articles d'actualité de multiples sources via NewsAPI. Ils peuvent créer un compte, rechercher, voir les détails et sauvegarder leurs favoris.",
+    "projectImg": "project-4.png",
+    "links": [
+      { "label": "Voir le projet", "url": "https://news-explorer-eight.vercel.app/" },
+      { "label": "Github", "url": "https://github.com/RochtBruno/news-Explorer" }
+    ]
+  }
+]
