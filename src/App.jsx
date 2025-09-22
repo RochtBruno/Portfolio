@@ -20,7 +20,7 @@ function App() {
 
   const { t, i18n } = useTranslation();
 
-  const changelanguage = (lng) => {
+  const changeLanguage = (lng) => {
     i18n.changeLanguage(lng);
   };
 
@@ -38,12 +38,7 @@ function App() {
 
   return (
     <>
-    <div style={{display:'flex', gap:'8px', position:'fixed', top:10, right:10, zIndex:100}}>
-      <button onClick={() => changelanguage('en')}>English</button>
-      <button onClick={() => changelanguage('pt')}>Português</button>
-      <button onClick={() => changelanguage('fr')}>Français</button>
-    </div>
-     <Header />
+     <Header changeLanguage={changeLanguage}/>
      <Main />
      <Skills/>
       <h2 className="experience__title">{t('experience.title', 'Experience')}</h2>
