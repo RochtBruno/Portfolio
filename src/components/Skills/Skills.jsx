@@ -4,13 +4,14 @@ import { IoLogoJavascript } from "react-icons/io5";
 import { FaReact } from "react-icons/fa";
 import { FaNode } from "react-icons/fa";
 import { BiLogoPostgresql } from "react-icons/bi";
-import { SiMongodb } from "react-icons/si";
+import { SiMongodb, SiNestjs } from "react-icons/si";
 import { FaDocker } from "react-icons/fa";
 import { FaSquareGit } from "react-icons/fa6";
 import { FaJava } from "react-icons/fa";
 import { FaC } from "react-icons/fa6";
 import { TbBrandCpp } from "react-icons/tb";
 import { useTranslation } from 'react-i18next';
+import { GrMysql } from 'react-icons/gr';
 
 
 function Skills(){
@@ -23,12 +24,13 @@ function Skills(){
 				<div className="skills__icons-wrapper">
 					<IoLogoJavascript />
 					<FaReact />
+					<SiNestjs/>
 					<FaNode />
 					<BiLogoPostgresql />
 					<SiMongodb />
 					<FaDocker />
 					<FaSquareGit />
-					<FaJava />
+					<GrMysql/>
 					<FaC />
 					<TbBrandCpp />
 				</div>
