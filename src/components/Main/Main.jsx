@@ -1,5 +1,5 @@
 import React from 'react'
-import my_photo from "../../assets/foto__perfil.jpeg"
+import my_photo from "../../assets/foto_perfil_linkedin.png"
 import { useTranslation } from 'react-i18next'
 
 function Main(){

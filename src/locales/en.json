@@ -2,7 +2,7 @@
     "main": {
         "name": "Bruno Rocha",
         "role": "Full Stack Developer",
-        "description": "I am a full-stack developer focused on creating efficient and scalable web solutions. I have a solid foundation in JavaScript, React, Node.js, Java, Spring Boot, and MongoDB, along with practical experience in full-stack projects, both academic and professional. I am studying Software Engineering at 42 Rio and have also completed complementary training programs with TripleTen and Oracle Next Education (ONE), which strengthened my mastery of front-end and back-end development. I am driven by curiosity and a constant desire to learn. I enjoy problem-solving, thinking about usability, and working in teams to build products that truly work.",
+        "description": "Full Stack developer with experience building scalable web applications using modern frameworks and libraries. I am proficient in JavaScript and TypeScript across the stack, including React.js, Next.js, Node.js, and Nest.js, with solid expertise in RESTful APIs, clean architecture (DDD/TDD), and SQL and NoSQL databases. I have experience working in remote, distributed, and agile environments, collaborating with multidisciplinary teams and communicating technical concepts effectively to both technical and non-technical stakeholders. I am expanding my knowledge of AWS (Lambda, Amplify, EKS) to build scalable cloud solutions.",
         "download": "Download Resume"
     }
 }

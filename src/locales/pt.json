@@ -2,7 +2,7 @@
     "main":{
         "name": "Bruno Rocha",
         "role": "Desenvolvedor full stack",
-        "description": "Sou desenvolvedor full stack com foco em criar soluções web eficientes e escaláveis. Tenho uma base sólida em JavaScript, React, Node.js, Java, Spring Boot e MongoDB, além de experiência prática com projetos full stack, tanto acadêmicos quanto profissionais.Estudo Engenharia de Software na 42 Rio e já participei de formações complementares pela TripleTen e Oracle Next Education (ONE), o que fortaleceu meu domínio do front-end e back-end.Sou movido pela curiosidade e pela vontade constante de aprender. Gosto de resolver problemas, pensar em usabilidade e trabalhar em equipe para construir produtos que realmente funcionem.",
+        "description": "Desenvolvedor JavaScript Full Stack com experiência na construção de aplicações web escaláveis utilizando frameworks e bibliotecas modernas. Proficiente em JavaScript e TypeScript em toda a stack React.js, Next.js, Node.js, Nest.js com sólida expertise em APIs RESTful, arquitetura limpa (DDD/TDD) e bancos de dados SQL e NoSQL. Experiente em ambientes remotos, distribuídos e ágeis, colaborando com equipes multidisciplinares e comunicando conceitos técnicos de forma eficaz para stakeholders técnicos e não técnicos. Expandindo conhecimentos em AWS (Lambda, Amplify, EKS) para soluções escaláveis em nuvem.",
         "download": "Baixar currículo"
     }
 }

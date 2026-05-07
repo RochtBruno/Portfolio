@@ -1,6 +1,13 @@
 import React from 'react'
 
 function Exp({date, title, description, skills}) {
+	const descriptionTopics = typeof description === 'string' && /[•\n]/.test(description)
+		? description
+			.split(/[•\n]+/)
+			.map((item) => item.trim())
+			.filter(Boolean)
+		: []
+
 	return(
 		<>
 			<div className="experience">
@@ -10,9 +17,17 @@ function Exp({date, title, description, skills}) {
 					</div>
 					<div className="experience__box-info">
 						<p className="experience__box-job-title">{title}</p>
-						<p className="experience__box-job-description">{description}</p>
+						{descriptionTopics.length > 0 ? (
+							<ul className="experience__box-job-topics">
+								{descriptionTopics.map((topic, index) => (
+									<li className="experience__box-job-topic" key={index}>{topic}</li>
+								))}
+							</ul>
+						) : (
+							<p className="experience__box-job-description">{description}</p>
+						)}
 						<div className="experience__box-job-skills">
-							{skills.map((skill,index) => (
+							{Array.isArray(skills) && skills.map((skill,index) => (
 								<p className="experience__box-job-skill" key={index}>{skill}</p>
 							))}
 						</div>

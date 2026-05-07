@@ -41,7 +41,7 @@ function App() {
      <Header changeLanguage={changeLanguage}/>
      <Main />
      <Skills/>
-      <h2 className="experience__title">{t('experience.title', 'Experience')}</h2>
+      <h2 className="experience__title">{t('experience.title', 'Experiences')}</h2>
      {
       experiences.map((exp,index) => (
         <Exp key={index} {...exp} />

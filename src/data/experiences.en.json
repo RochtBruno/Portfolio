@@ -1,14 +1,20 @@
 [
   {
-    "date": "11/24 - 04/25",
-    "title": "Full Stack Developer - 42 Rio",
-    "description": "Full stack developer experience in the 42 Labs program was essential for my growth, giving me direct contact with real problems from partner companies. Through this program I improved my hard skills in software development and strengthened soft skills while solving complex problems. Working on challenges that directly impact businesses and jobs was a crucial step in my career, preparing me for the software engineering and full stack web development market.",
-    "skills": ["JavaScript", "React", "Python", "Docker", "AWS", "Node.js", "MongoDB"]
+    "date": "03/26 - Present",
+    "title": "Full Stack Developer - Utrip",
+    "description": "• Building scalable and reusable JavaScript/TypeScript components with React.js, Next.js, and Tailwind CSS in a multitenant architecture. • Developing RESTful APIs with Nest.js following DDD and TDD principles, with a focus on clean, testable, and well-documented code. • Managing relational (MySQL) and non-relational (MongoDB) databases, with performance optimization using Redis cache. • Supporting AWS operations (Lambda, Amplify, EKS) and automating deployment pipelines. • Participating in code reviews, contributing to best practices, and communicating delivery quality to stakeholders.",
+    "skills": ["Nest js", "Next", "JavaScript", "TypeScript", "AWS", "DDD", "MySQL", "MongoDB"]
   },
   {
-    "date": "2022 - Present",
-    "title": "Full Stack Developer - Freelancer",
-    "description": "My experience includes developing real web projects for global clients. Beyond implementation, I was responsible for the design of these solutions, which received positive feedback. This gave me a solid front-end foundation and the ability to deliver attractive, functional designs for any full stack project.",
-    "skills": ["HTML", "CSS", "JavaScript", "React", "Node.js", "MongoDB", "Express"]
+    "date": "10/2025 – 03/2026",
+    "title": "Full Stack JavaScript Developer - TAG",
+    "description": "• Creating web applications and AI agents to automate internal processes using Python, LangChain, React.js, Node.js, Tailwind CSS, and REST APIs. • Integrating solutions with corporate systems, centralizing information and improving operational efficiency. • Collaborating cross-functionally with technical and non-technical stakeholders to define features and deliver improvements.",
+    "skills": ["Python", "LangChain", "React.js", "Node.js", "Tailwind CSS", "REST APIs"]
+  },
+  {
+    "date": "11/24 - 04/25",
+    "title": "Full Stack Developer - Wilson Sons",
+    "description": "• Developing full stack solutions with C, C++, Java, and Python, building RESTful APIs and backend applications with Node.js and Java. • Applying clean architecture and DDD concepts; collaborating on multi-service integrations with Git versioning and Docker deployments. • Working in an agile environment, troubleshooting and solving technical issues across the entire application stack.",
+    "skills": ["JavaScript", "React", "Python", "Docker", "AWS", "Node.js", "MongoDB"]
   }
 ]
